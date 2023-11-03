@@ -1,6 +1,6 @@
 # flutter_aula
 
-A new Flutter project.
+Projeto flutter exibindo o cálculo do valor digitado em 10%
 
 ## Getting Started
 
